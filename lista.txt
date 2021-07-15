@@ -1,3 +1,6 @@
 manzana
 bananas
 naranjas
+papas
+cebollas
+lechuga
